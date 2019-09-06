@@ -1,0 +1,16 @@
+
+Estructura del trabajo:
+    1:- Visualizar la estructura de la tabla:
+           -> head
+           -> sample
+           -> dtypes
+           -> unique
+           -> duplicated
+           
+    2:- Analizamos Columnas individuales:
+            -> Tipo de Propiedad (Guillermos)
+            -> Ubicacion (Marx Morales)
+                        - Nos quedamos 
+            -> Ambientes /Habitaciones (Ale)
+            -> Precios/ valor metro cuadrado / monedas / Superficie(Pablo)
+            
